@@ -1,0 +1,82 @@
+div > h1 {
+    color: #09b3bf;
+}
+
+body > div > div > ol > li {
+    margin: 0 5px;
+}
+
+@import
+url('https://fonts.googleapis.com/css?family=Ubuntu');
+
+@media (max-width: 480px) {
+    h1 {
+        font-size: 18px;
+    }
+}
+
+body {
+    /*background-image: url('../img/bg.img');
+    background-repeat: repeat-y;*/
+    background-color: #383838;
+}
+
+div > h1 {
+    color: #fff;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+body > div > nav > div > a > h4 {
+    color: #fff;
+    font-family: 'Ubuntu' sans-serif ;
+}
+.articles-row {
+    background: #fff;
+    color: #383838;
+    font-family: 'Ubuntu', sans-serif;
+    box-shadow: 2px 2px 1px #ccc;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10%;
+}
+.articles-row a {
+    color: #383838;
+    font-family: 'Ubuntu', sans-serif;
+}
+body > div > div > ol > li {
+    margin: 0 5px;
+}
+
+div.container-image > img {
+    width: 100%;
+}
+
+.item-block{
+    background-color: #fff;
+    padding: 20px;
+}
+
+.item-block a {
+    color: #09b3bf;
+}
+
+.item-block h4 {
+    color:#09b3bf
+}
+
+.detail-block {
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 25% 10%;
+}
+
+.detail-item {
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10%;
+}
+
+.item-title{
+    justify-content: center;
+    align-items: center;
+}

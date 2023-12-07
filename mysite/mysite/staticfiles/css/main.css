@@ -1,0 +1,7 @@
+div > h1 {
+    color: #09b3bf;
+}
+
+body > div > div > ol > li {
+    margin: 0 5px;
+}
